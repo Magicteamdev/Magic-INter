@@ -1,2 +1,2 @@
-# Magic-INter
+# Magic-interface
 New  Target-Menu
